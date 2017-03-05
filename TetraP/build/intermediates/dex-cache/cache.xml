@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_ed331d60587cfd996d8efdfa4c03176e8a4b01a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_53cc831ecbcce3bd07ddfe8fe1f2ca3e39daae6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_96a161c2ad12536f20b2906aa9f4c6b6ee183922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_247106499189d9b7392cf41fddff1173e9789ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a4c1636eca087da1b199e8eeaab493a3342bb992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_2589c9f0d0312d3aac8bcb5665571cb74261748c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_18fd6fac2127f117caba77549993665689b60119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9efc6003fab53385262532d2bc33c88730c3d50f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_01163d474b581ac0b930b724095c00c2c010b43f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6c36a0b40c15bd69d75381685abd195eb640369f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_7e316a691e4b57ee6887ef1f26241047293a6f6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_bd6cd5262b73a137bf1ceac2a66d0a988ae17bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_cad707eea6429935ca7fde9c7593836eeacc7260\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_9c16bd26a4911ad88625b544a50bb5d386161dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f10cc633c1dd2bbcccd075b7ca42dc40e6781355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_6319dd6535d28e6658cf21e71f7af04ddfb4ffa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_88db5e6395cd0e360e5b100d109932a65536f9d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_79d1bd3cce53eda0dc1f0942dc35ba80808bf107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_951cad1f2f0510351515feb0b31b9b7bd0a8a4be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7e0b08f8fb2a5e8d9e35304c1dbc0c0717e8d606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_15a623cf894c517032ee2521beda6a5dfa949c8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_d6c36348418d1a092ddc67ef3d6c71fa1f861c51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_68e13038435f74d426c82d88cc4db6d48b2d145a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f043d8f328430746f58cd2cf7a88ac93831ae90">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_af5a1cbf9563a08f688f4d95843fa3ded7179228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_fde5baad2966e40c6f276100e8cc6ad54fca51eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_fe18597f7be22c507e121f058210009e20f64e08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_007a6acad0a1006b57c2cc4fe02a518e5dd26f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_ab190ce036f24ce1acf73ba590ea4c1b881d00d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_ca007270d6de74d208836b71567e5d28460ae8ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_4135fb98e520e82ff41eec77189369043371298f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_41f7b2b95015cdcde47727c1c9e2957b177c8e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_f2ee4e629bd3264213524f94424fff41a8366b54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_5afba208f3bbf3880fd74f5a8e71a3ceceeed728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_22f5ecdc309c9e429f2a1bf546edbbdd11727440\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_afd9081aea127bd89910c252cdafda83a336d5d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_5fa4ca089f91226219e9bb4bebfcc83f396b9df4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_fabca85539b1d985fef55607c5ef5ee5230f8ca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_a61c13d51c129f4833d9e041043a32b0d5747909\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_cddb82a81999fee19281af8582d0c180147f8282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_e751258b5fc9d2914499ed00a193a2f15ffaec53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_2ccd8c3899fb406c30dbf77a3191d3a71d6c329a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_a158e23f81dfe08106692d9e2fb67143b3dd1196\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_56e5870d536c82a32de1dd5456d1393ef63e636c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8438cbd66ca53f4fe5920f3d5a11b7dd746d8804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a5e6feba9162a8ee3f121ead1432adcbaf3fc3b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_a3a6dcfc76455e58071be7a72d41932bdd82a708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cdfc3be5fcdb1a845f323a7740cdb0f7c0df8e9a">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d032cf2ece90041c6b0dde2d7234e403e2b6661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_105ef4574ca39170ddb28faa1fa5f79bfdf27533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_ac0a417bfba20c67894e0eccc6683f6f6346c0aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_b70d1947b9268d32b05089ba322f1c3146ae5ff8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_169e060a3962d89fc9f8e08cc722a3330ded1783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_f86b920fffb56601eeb0cb8718c8382349cfbe94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_c18ed2393e7c70b2a46b1e3b08c6dd756de1c1f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_4cfd83df9cf9fd5e5633adef1fcb2a92c43d74fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_abcab3d44fb8610832b7d5e053c882ce58dcf7c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_2b9a25787e2296a3b58588ec88c2964174354b1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_5643fcbbaf4e71e8a1977fd7bd931bf0a4db1091\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_2d4e889330a8b84499d3ec3bfd4699af50c6b8a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_11dc9b7fc97535be1f9d765a918be96022defa13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_d40f4f12d2f9f0a906b3675b074891c054f1a982\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c8f7d92331d736670666fab54129275a3c408590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_e1cce0f95ac3596567b8e0fb4bbc46624643217a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_4da6cd410a662b2fd6b6274e73f0b5b241761c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_28972d55f5cb816860ba4d5c814d3a420d9ad286\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_514d657af7bb688d65e8222302cdd482c5f8b39a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_2b29d8c4234601f9442b4041ff3d22e30b9067fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_bf587f898e6f8876ecdafd4d800507350cb02fe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_240e816393c99608ace4aaf92c5dd062c7953da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_9e58e68dc48d568d7db04ef1990c74c4d74d932f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="C:\Users\FNU\Documents\MIS\TetraP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_6b7234f558e99c8fca61ed20d9f7aed75278ff65\classes.dex" />
+    </item>
+
+</items>
